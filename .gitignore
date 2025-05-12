@@ -1,0 +1,10 @@
+# Ignore .env file in backend folder
+backend/.env
+
+# Ignore node_modules folder in frontend folder
+frontend/node_modules/
+
+# Ignore node_modules folder in backend folder
+backend/node_modules/
+
+
